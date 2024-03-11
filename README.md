@@ -14,6 +14,5 @@ Hello there! 👋 I'm Pradip, a software enthusiast passionate about building in
 
 Feel free to reach out to me via:
 
-- 📫 Email: your_email@example.com
-- 💼 LinkedIn: [Pradip's LinkedIn Profile](https://www.linkedin.com/in/pradip1232/)
-- 🐦 Twitter: [Pradip's Twitter Profile](https://twitter.com/pradip1232)
+- 📫 Email: 755201pradip@gmail.com
+- 💼 LinkedIn:
