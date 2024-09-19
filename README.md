@@ -15,4 +15,4 @@ Hello there! 👋 I'm Pradip, a software enthusiast passionate about building in
 Feel free to reach out to me via:
 
 - 📫 Email: 755201pradip@gmail.com
-- 💼 LinkedIn:
+- 💼 LinkedIn: https://www.linkedin.com/in/pradipmourya-61a387218/
