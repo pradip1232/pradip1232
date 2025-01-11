@@ -6,7 +6,7 @@ Hello there! 👋 I'm Pradip, a software enthusiast passionate about building in
 
 ## Interests
 
-- 👀 I’m interested in web development, machine learning, and cloud computing.
+- 👀 I’m interested in full stack web development, machine learning, and cloud computing.
 - 🌱 I’m currently learning React.js and TensorFlow.
 - 💞️ I’m looking to collaborate on open-source projects related to web development or machine learning.
 
