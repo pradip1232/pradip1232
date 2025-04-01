@@ -18,4 +18,4 @@ Feel free to reach out to me via:
 - 💼 LinkedIn: https://www.linkedin.com/in/pradipmourya-61a387218/
 
 
-  I have 40+ repositories, including some private repositories where I work on specialized projects. Feel free to check out my public projects!
+  I have 50+ repositories, including some private repositories where I work on specialized projects. Feel free to check out my public projects!
